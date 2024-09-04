@@ -20,5 +20,4 @@ summary: 如果您未运行最新版本，则可以参考有关先前版本的 A
 * https://docs.netapp.com/us-en/trident-2204/index.html["Asta三排版22.04."^]
 * https://docs.netapp.com/us-en/trident-2201/index.html["Asta三排版22.01."^]
 * https://docs.netapp.com/us-en/trident-2110/index.html["Asta三打21.10."^]
-* https://docs.netapp.com/us-en/trident-2107/index.html["Astra Trident 21.07"^]
 
